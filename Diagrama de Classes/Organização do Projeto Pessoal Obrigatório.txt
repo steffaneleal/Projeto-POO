@@ -1,0 +1,8 @@
+ORGANIZAÇÃO DO MEU PROJETO PESSOAL OBRIGATÓRIO
+
+Meu Cenário: 
+Objeto: Garrafa;
+Cenário: representa uma garrafa em uma prateleira. Nesta mesma prateleira há outros tipos de 
+garrafa, com diferentes marcas, materiais e formas/tamanhos.
+
+
